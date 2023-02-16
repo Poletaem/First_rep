@@ -1,1 +1,1 @@
-print ('Class work')
+print ("Class work")
